@@ -14,7 +14,13 @@ This repository contains a Node.js script to create an Ethereum Virtual Machine 
 2. Install the `ethers` library by running:
 
    ```bash
-   npm install ethers
+   npm install
+   ```
+
+   or
+
+   ```bash
+   yarn install
    ```
 
 3. Run the script using Node.js:
